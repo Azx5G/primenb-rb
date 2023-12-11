@@ -1,4 +1,4 @@
-# Prime Number Tester with Language Selection
+# Prime Number Tester for Maths Class (Ruby)
 
 ## Description
 
